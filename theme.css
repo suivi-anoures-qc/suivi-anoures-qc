@@ -1,4 +1,5 @@
-﻿figcaption {text-align: center}
+﻿figcaption {text-align: center;
+	    font-size: 1vw;}
 h1 {
   text-align: center;
   color: #FFA500;
