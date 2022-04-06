@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<head>
+	<title> SPAQ - Chants </title>
+	<link href="theme.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+<h2> Chants d'anoures du Québec </h2>
+
+
+<p><h4>Clickez sur une grenouille pour écouter son chant!</h4></p>
+
+<div class = "frog2Box">
+<h3>Espèces ciblées par le Suivi</h3>
+<table>
+<tbody>
+<tr>
+<td><img src="BUAM.jpg" width="300" height="250" onclick="myAudioFunction('a');"><figcaption>Crapaud d'Amérique</figcaption></td>
+<td><img src="PSCR.jpg" width="300" height="250" onclick="myAudioFunction('c');"><figcaption>Rainette Crucifère</figcaption></td>
+<td><img src="RASY.jpg" width="300" height="250" onclick="myAudioFunction('k');"><figcaption>Grenouile des Bois</figcaption></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br>
+
+<div class = "frogBox">
+<h3>Autres espèces du Québec</h3>
+<table>
+<tbody>
+<tr>
+<td><img src="HYVE.jpg" width="300" height="250" onclick="myAudioFunction('b');"><figcaption>Rainette Versicolore</figcaption></td>
+<td><img src="PSMA.jpg" width="300" height="250" onclick="myAudioFunction('d');"><figcaption>Rainette Faux-Grillon Boréale</figcaption></td>
+<td><img src="PSTR.jpg" width="300" height="250" onclick="myAudioFunction('e');"><figcaption>Rainette Faux-Grillon de l'Ouest</figcaption></td>
+<td><img src="RACA.jpg" width="300" height="250" onclick="myAudioFunction('f');"><figcaption>Ouaouaron</figcaption></td>
+</tr>
+<tr>
+<td><img src="RACL.jpg" width="300" height="250" onclick="myAudioFunction('g');"><figcaption>Grenouille Verte</figcaption></td>
+<td><img src="RAPA.jpg" width="300" height="250" onclick="myAudioFunction('h');"><figcaption>Grenouille des Marais</figcaption></td>
+<td><img src="RAPI.jpg" width="300" height="250" onclick="myAudioFunction('i');"><figcaption>Crenouille Léopard</figcaption></td>
+<td><img src="RASP.jpg" width="300" height="250" onclick="myAudioFunction('j');"><figcaption>Grenouille du Nord</figcaption></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<p>
+<h3>
+	<a href="index.html" class="button">Page d'accueil</a>
+	<a href="video.html" class="button">Cotes d'abondance</a>
+	<a href="carte.html" class="button">Carte des routes</a>
+</h3>
+</p>
+
+</body>
+
+ <script>
+    	var aAudio = new Audio('BUAM.wav');
+     	var bAudio = new Audio('HYVE.wav');
+	var cAudio = new Audio('PSCR.wav');
+	var dAudio = new Audio('PSMA.wav');
+	var eAudio = new Audio('PSTR.wav');
+	var fAudio = new Audio('RACA.wav');
+	var gAudio = new Audio('RACL.wav');
+	var hAudio = new Audio('RAPA.wav');
+	var iAudio = new Audio('RAPI.wav');
+	var jAudio = new Audio('RASP.wav');
+	var kAudio = new Audio('RASY.wav');
+     function myAudioFunction(letter) {
+         if(letter == 'a') {
+             aAudio.play();
+         } else if(letter == 'b') {
+             bAudio.play();
+         } else if(letter == 'c') {
+             cAudio.play();
+	 } else if(letter == 'd') {
+             dAudio.play();
+	 } else if(letter == 'e') {
+             eAudio.play();
+	 } else if(letter == 'f') {
+             fAudio.play();
+	 } else if(letter == 'g') {
+             gAudio.play();
+	 } else if(letter == 'h') {
+             hAudio.play();
+	 } else if(letter == 'i') {
+             iAudio.play();
+	 } else if(letter == 'j') {
+             jAudio.play();
+	 } else if(letter == 'k') {
+             kAudio.play();
+	}
+     }
+
+</script>
+</html>
