@@ -85,6 +85,11 @@ body {
     border-radius: 20px;
 }
 
+.buttonContainer {
+    margin: auto;
+    padding:1%;
+}
+
 .button {
     margin: 0.3em;
     padding:0.2em 0.3em;
