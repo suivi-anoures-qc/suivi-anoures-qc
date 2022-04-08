@@ -85,6 +85,13 @@ body {
     align: center;
 }
 
+.button2Container {
+    margin: auto;
+    padding:1%;
+    align: center;
+    width: 750;
+}
+
 .button {
     margin: 0.3em;
     padding:0.2em 0.3em;
