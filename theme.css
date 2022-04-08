@@ -72,6 +72,13 @@ body {
     border-radius: 20px;
 }
 
+.iframeContainer {
+    margin: auto;
+    padding:1%;
+    align: center;
+    width: 750;
+}
+
 .buttonContainer {
     margin: auto;
     padding:1%;
