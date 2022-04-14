@@ -1,13 +1,105 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <head>
-	<title> Quebec Amphibian Monitoring Program </title>
+	<title> QAMP - Calls </title>
 	<link href="theme.css" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
 <body>
-<a href="index.html" class="langButton">Fr</a>
-<h1> Quebec Amphibian Monitoring Program </h1>
-<h4> Under construction! </h4>
+<a href="chants.html" class="langButton">Fr</a>
+<h2> Chants d'anoures du Québec </h2>
+
+
+<p><h4>Click on a frog to listen to its call!</h4></p>
+
+<div class = "frogBox">
+<h3>Focal species</h3>
+<table>
+<tbody>
+<tr>
+<td><img src="BUAM.jpg" width="100%" height="auto" onclick="myAudioFunction('a');"><figcaption>American toad</figcaption></td>
+<td><img src="PSCR.jpg" width="100%" height="auto" onclick="myAudioFunction('c');"><figcaption>Spring peeper</figcaption></td>
+<td><img src="RASY.jpg" width="100%" height="auto" onclick="myAudioFunction('k');"><figcaption>Wood frog</figcaption></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br>
+
+<div class = "frogBox">
+<h3>Other Quebec Species</h3>
+<table>
+<tbody>
+<tr>
+<td><img src="HYVE.jpg" width="100%" height="auto" onclick="myAudioFunction('b');"><figcaption>Gray treefrog</figcaption></td>
+<td><img src="PSMA.jpg" width="100%" height="auto" onclick="myAudioFunction('d');"><figcaption>Boreal chorus frog</figcaption></td>
+<td><img src="PSTR.jpg" width="100%" height="auto" onclick="myAudioFunction('e');"><figcaption>Western chorus frog</figcaption></td>
+<td><img src="RACA.jpg" width="100%" height="auto" onclick="myAudioFunction('f');"><figcaption>Bullfrog</figcaption></td>
+</tr>
+<tr>
+<td><img src="RACL.jpg" width="100%" height="auto" onclick="myAudioFunction('g');"><figcaption>Green frog</figcaption></td>
+<td><img src="RAPA.jpg" width="100%" height="auto" onclick="myAudioFunction('h');"><figcaption>Pickerel frog</figcaption></td>
+<td><img src="RAPI.jpg" width="100%" height="auto" onclick="myAudioFunction('i');"><figcaption>Leopard frog</figcaption></td>
+<td><img src="RASP.jpg" width="100%" height="auto" onclick="myAudioFunction('j');"><figcaption>Mink frog</figcaption></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br>
+
+<div class = buttonContainer>
+	<table align="center">
+	<tbody>
+	<tr>
+	<td><a href="indexEN.html" class="button">Home page</a></td>
+	<td><a href="carteEN.html" class="button">Route map</a></td>
+	<td><a href="videoEN.html" class="button">Abundance index</a></td>
+	<td><a href="documentsEN.html" class="button">Protocol and field sheets</a></td>
+	</tbody>
+	</table>
+</div>
+
 </body>
+
+ <script>
+    	var aAudio = new Audio('BUAM.wav');
+     	var bAudio = new Audio('HYVE.wav');
+	var cAudio = new Audio('PSCR.wav');
+	var dAudio = new Audio('PSMA.wav');
+	var eAudio = new Audio('PSTR.wav');
+	var fAudio = new Audio('RACA.wav');
+	var gAudio = new Audio('RACL.wav');
+	var hAudio = new Audio('RAPA.wav');
+	var iAudio = new Audio('RAPI.wav');
+	var jAudio = new Audio('RASP.wav');
+	var kAudio = new Audio('RASY.wav');
+     function myAudioFunction(letter) {
+         if(letter == 'a') {
+             aAudio.play();
+         } else if(letter == 'b') {
+             bAudio.play();
+         } else if(letter == 'c') {
+             cAudio.play();
+	 } else if(letter == 'd') {
+             dAudio.play();
+	 } else if(letter == 'e') {
+             eAudio.play();
+	 } else if(letter == 'f') {
+             fAudio.play();
+	 } else if(letter == 'g') {
+             gAudio.play();
+	 } else if(letter == 'h') {
+             hAudio.play();
+	 } else if(letter == 'i') {
+             iAudio.play();
+	 } else if(letter == 'j') {
+             jAudio.play();
+	 } else if(letter == 'k') {
+             kAudio.play();
+	}
+     }
+
+</script>
 </html>
