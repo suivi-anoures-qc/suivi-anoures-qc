@@ -1159,16 +1159,16 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 1158,-72.558944,45.421194,150,8,Active,A,5.11019,Monteregie
 1159,-72.58133333,45.42252778,150,9,Active,A,5.11019,Monteregie
 1160,-72.59438889,45.42066667,150,10,Active,A,5.11019,Monteregie
-1161,-72.63658333,45.34872222,151,1,Inactive,A,5.40021,Monteregie
-1162,-72.62502778,45.34991667,151,2,Inactive,A,5.40021,Monteregie
-1163,-72.61605556,45.356,151,3,Inactive,A,5.40021,Monteregie
-1164,-72.61066667,45.36191667,151,4,Inactive,A,5.40021,Monteregie
-1165,-72.60841667,45.36819444,151,5,Inactive,A,5.40021,Monteregie
-1166,-72.59797222,45.36513889,151,6,Inactive,A,5.40021,Monteregie
-1167,-72.58808333,45.367,151,7,Inactive,A,5.40021,Monteregie
-1168,-72.58680556,45.3615,151,8,Inactive,A,5.40021,Monteregie
-1169,-72.59211111,45.35569444,151,9,Inactive,A,5.40021,Monteregie
-1170,-72.58355556,45.35466667,151,10,Inactive,A,5.40021,Monteregie
+1161,-72.63658333,45.34872222,151,1,Active,A,5.40021,Monteregie
+1162,-72.62502778,45.34991667,151,2,Active,A,5.40021,Monteregie
+1163,-72.61605556,45.356,151,3,Active,A,5.40021,Monteregie
+1164,-72.61066667,45.36191667,151,4,Active,A,5.40021,Monteregie
+1165,-72.60841667,45.36819444,151,5,Active,A,5.40021,Monteregie
+1166,-72.59797222,45.36513889,151,6,Active,A,5.40021,Monteregie
+1167,-72.58808333,45.367,151,7,Active,A,5.40021,Monteregie
+1168,-72.58680556,45.3615,151,8,Active,A,5.40021,Monteregie
+1169,-72.59211111,45.35569444,151,9,Active,A,5.40021,Monteregie
+1170,-72.58355556,45.35466667,151,10,Active,A,5.40021,Monteregie
 1171,-72.69647222,45.40713889,152,1,Active,A,5.66475,Monteregie
 1172,-72.68802778,45.41433333,152,2,Active,A,5.66475,Monteregie
 1173,-72.67761111,45.4205,152,3,Active,A,5.66475,Monteregie
@@ -1859,3 +1859,13 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 1858,-64.3503662,48.9015882,220,8,Active,C/D,NA,Gaspesie - Îles-de-la-Madeleine
 1859,-64.3450271,48.9078173,220,9,Active,C/D,NA,Gaspesie - Îles-de-la-Madeleine
 1860,-64.3399164,48.9141917,220,10,Active,C/D,NA,Gaspesie - Îles-de-la-Madeleine
+1861,-70.4236878,46.1942274,221,1,Active,B/C,3.3,Chaudiere-Appalaches
+1862,-70.4160274,46.1991734,221,2,Active,B/C,3.3,Chaudiere-Appalaches
+1863,-70.4084496,46.2041634,221,3,Active,B/C,3.3,Chaudiere-Appalaches
+1864,-70.4009609,46.2091679,221,4,Active,B/C,3.3,Chaudiere-Appalaches
+1865,-70.3934078,46.2140531,221,5,Active,B/C,3.3,Chaudiere-Appalaches
+1866,-70.3858332,46.2190121,221,6,Active,B/C,3.3,Chaudiere-Appalaches
+1867,-70.3782372,46.2239409,221,7,Active,B/C,3.3,Chaudiere-Appalaches
+1868,-70.370727,46.2288568,221,8,Active,B/C,3.3,Chaudiere-Appalaches
+1869,-70.3632812,46.2337699,221,9,Active,B/C,3.3,Chaudiere-Appalaches
+1870,-70.3557496,46.2387271,221,10,Active,B/C,3.3,Chaudiere-Appalaches
