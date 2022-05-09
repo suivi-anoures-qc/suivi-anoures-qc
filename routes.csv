@@ -49,16 +49,16 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 48,-71.44514167,46.68113889,6,8,Inactive,B,4.04637,Chaudiere-Appalaches
 49,-71.45466667,46.67794722,6,9,Inactive,B,4.04637,Chaudiere-Appalaches
 50,-71.46419444,46.67484722,6,10,Inactive,B,4.04637,Chaudiere-Appalaches
-51,-71.39611111,46.67527778,7,1,Inactive,B,4.04637,Chaudiere-Appalaches
-52,-71.40638889,46.67555556,7,2,Inactive,B,4.04637,Chaudiere-Appalaches
-53,-71.415034,46.672523,7,3,Inactive,B,4.04637,Chaudiere-Appalaches
-54,-71.42555556,46.67138889,7,4,Inactive,B,4.04637,Chaudiere-Appalaches
-55,-71.43472222,46.66777778,7,5,Inactive,B,4.04637,Chaudiere-Appalaches
-56,-71.444291,46.664565,7,6,Inactive,B,4.04637,Chaudiere-Appalaches
-57,-71.4525,46.66055556,7,7,Inactive,B,4.04637,Chaudiere-Appalaches
-58,-71.46055556,46.65694444,7,8,Inactive,B,4.04637,Chaudiere-Appalaches
-59,-71.46916667,46.6525,7,9,Inactive,B,4.04637,Chaudiere-Appalaches
-60,-71.47833333,46.65,7,10,Inactive,B,4.04637,Chaudiere-Appalaches
+51,-71.39611111,46.67527778,7,1,Active,B,4.04637,Chaudiere-Appalaches
+52,-71.40638889,46.67555556,7,2,Active,B,4.04637,Chaudiere-Appalaches
+53,-71.415034,46.672523,7,3,Active,B,4.04637,Chaudiere-Appalaches
+54,-71.42555556,46.67138889,7,4,Active,B,4.04637,Chaudiere-Appalaches
+55,-71.43472222,46.66777778,7,5,Active,B,4.04637,Chaudiere-Appalaches
+56,-71.444291,46.664565,7,6,Active,B,4.04637,Chaudiere-Appalaches
+57,-71.4525,46.66055556,7,7,Active,B,4.04637,Chaudiere-Appalaches
+58,-71.46055556,46.65694444,7,8,Active,B,4.04637,Chaudiere-Appalaches
+59,-71.46916667,46.6525,7,9,Active,B,4.04637,Chaudiere-Appalaches
+60,-71.47833333,46.65,7,10,Active,B,4.04637,Chaudiere-Appalaches
 61,-72.4802778,48.6225,8,1,Inactive,D,1.68992,Saguenay - Lac-Saint-Jean
 62,-72.4738889,48.6166667,8,2,Inactive,D,1.68992,Saguenay - Lac-Saint-Jean
 63,-72.46777,48.61111,8,3,Inactive,D,1.68992,Saguenay - Lac-Saint-Jean
@@ -429,16 +429,16 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 428,-71.37833333,46.93972222,59,8,Fermee,C,2.90812,Capitale-Nationale
 429,-71.37638889,46.93472222,59,9,Fermee,C,2.90812,Capitale-Nationale
 430,-71.37027778,46.92833333,59,10,Fermee,C,2.90812,Capitale-Nationale
-431,-71.43254167,46.73297222,61,1,Active,B,4.04637,Capitale-Nationale
-432,-71.44259722,46.73346667,61,2,Active,B,4.04637,Capitale-Nationale
-433,-71.45356111,46.73312778,61,3,Active,B,4.04637,Capitale-Nationale
-434,-71.46241389,46.73063056,61,4,Active,B,4.04637,Capitale-Nationale
-435,-71.47100278,46.72680278,61,5,Active,B,4.04637,Capitale-Nationale
-436,-71.48106111,46.72510833,61,6,Active,B,4.04637,Capitale-Nationale
-437,-71.48995,46.72785,61,7,Active,B,4.04637,Capitale-Nationale
-438,-71.500175,46.72698056,61,8,Active,B,4.04637,Capitale-Nationale
-439,-71.509675,46.72806667,61,9,Active,B,4.04637,Capitale-Nationale
-440,-71.51967222,46.72906944,61,10,Active,B,4.04637,Capitale-Nationale
+431,-71.43254167,46.73297222,61,1,Inactive,B,4.04637,Capitale-Nationale
+432,-71.44259722,46.73346667,61,2,Inactive,B,4.04637,Capitale-Nationale
+433,-71.45356111,46.73312778,61,3,Inactive,B,4.04637,Capitale-Nationale
+434,-71.46241389,46.73063056,61,4,Inactive,B,4.04637,Capitale-Nationale
+435,-71.47100278,46.72680278,61,5,Inactive,B,4.04637,Capitale-Nationale
+436,-71.48106111,46.72510833,61,6,Inactive,B,4.04637,Capitale-Nationale
+437,-71.48995,46.72785,61,7,Inactive,B,4.04637,Capitale-Nationale
+438,-71.500175,46.72698056,61,8,Inactive,B,4.04637,Capitale-Nationale
+439,-71.509675,46.72806667,61,9,Inactive,B,4.04637,Capitale-Nationale
+440,-71.51967222,46.72906944,61,10,Inactive,B,4.04637,Capitale-Nationale
 441,-71.464113,46.048548,62,1,Inactive,B,3.76715,Chaudiere-Appalaches
 442,-71.471728,46.050291,62,2,Inactive,B,3.76715,Chaudiere-Appalaches
 443,-71.478332,46.056291,62,3,Inactive,B,3.76715,Chaudiere-Appalaches
