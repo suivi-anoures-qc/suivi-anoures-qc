@@ -129,16 +129,16 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 128,-72.576945,45.97589,15,8,Inactive,A,5.28108,Centre-du-Quebec
 129,-72.58777778,45.97555556,15,9,Inactive,A,5.28108,Centre-du-Quebec
 130,-72.596557,45.977601,15,10,Inactive,A,5.28108,Centre-du-Quebec
-131,-64.368579,49.826931,17,1,Inactive,C,2,Ce-Nord
-132,-64.37506,49.833461,17,2,Inactive,C,2,Ce-Nord
-133,-64.384587,49.835134,17,3,Inactive,C,2,Ce-Nord
-134,-64.394363,49.83768,17,4,Inactive,C,2,Ce-Nord
-135,-64.405131,49.839749,17,5,Inactive,C,2,Ce-Nord
-136,-64.41582,49.842437,17,6,Inactive,C,2,Ce-Nord
-137,-64.425094,49.844558,17,7,Inactive,C,2,Ce-Nord
-138,-64.43361111,49.85055556,17,8,Inactive,C,2,Ce-Nord
-139,-64.44222222,49.85527778,17,9,Inactive,C,2,Ce-Nord
-140,-64.44944444,49.85916667,17,10,Inactive,C,2,Ce-Nord
+131,-64.368579,49.826931,17,1,Inactive,C,2,Cﾃｴte-Nord
+132,-64.37506,49.833461,17,2,Inactive,C,2,Cﾃｴte-Nord
+133,-64.384587,49.835134,17,3,Inactive,C,2,Cﾃｴte-Nord
+134,-64.394363,49.83768,17,4,Inactive,C,2,Cﾃｴte-Nord
+135,-64.405131,49.839749,17,5,Inactive,C,2,Cﾃｴte-Nord
+136,-64.41582,49.842437,17,6,Inactive,C,2,Cﾃｴte-Nord
+137,-64.425094,49.844558,17,7,Inactive,C,2,Cﾃｴte-Nord
+138,-64.43361111,49.85055556,17,8,Inactive,C,2,Cﾃｴte-Nord
+139,-64.44222222,49.85527778,17,9,Inactive,C,2,Cﾃｴte-Nord
+140,-64.44944444,49.85916667,17,10,Inactive,C,2,Cﾃｴte-Nord
 141,-72.48107,46.066725,21,1,Inactive,A,5.10303,Centre-du-Quebec
 142,-72.48762,46.061149,21,2,Inactive,A,5.10303,Centre-du-Quebec
 143,-72.496262,46.059493,21,3,Inactive,A,5.10303,Centre-du-Quebec
@@ -619,16 +619,16 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 618,-73.09542314,45.6942384,84m,8,Inactive,A,5.88788,Monteregie
 619,-73.09955044,45.68761916,84m,9,Inactive,A,5.88788,Monteregie
 620,-73.1024693,45.68071122,84m,10,Inactive,A,5.88788,Monteregie
-621,-64.358198,50.295342,85,1,Inactive,E,0.43634,Ce-Nord
-622,-64.366061,50.300392,85,2,Inactive,E,0.43634,Ce-Nord
-623,-64.376826,50.304209,85,3,Inactive,E,0.43634,Ce-Nord
-624,-64.387157,50.308249,85,4,Inactive,E,0.43634,Ce-Nord
-625,-64.392616,50.311433,85,5,Inactive,E,0.43634,Ce-Nord
-626,-64.407646,50.315369,85,6,Inactive,E,0.43634,Ce-Nord
-627,-64.419032,50.318144,85,7,Inactive,E,0.43634,Ce-Nord
-628,-64.430904,50.319209,85,8,Inactive,E,0.43634,Ce-Nord
-629,-64.443337,50.319311,85,9,Inactive,E,0.43634,Ce-Nord
-630,-64.454632,50.320625,85,10,Inactive,E,0.43634,Ce-Nord
+621,-64.358198,50.295342,85,1,Inactive,E,0.43634,Cﾃｴte-Nord
+622,-64.366061,50.300392,85,2,Inactive,E,0.43634,Cﾃｴte-Nord
+623,-64.376826,50.304209,85,3,Inactive,E,0.43634,Cﾃｴte-Nord
+624,-64.387157,50.308249,85,4,Inactive,E,0.43634,Cﾃｴte-Nord
+625,-64.392616,50.311433,85,5,Inactive,E,0.43634,Cﾃｴte-Nord
+626,-64.407646,50.315369,85,6,Inactive,E,0.43634,Cﾃｴte-Nord
+627,-64.419032,50.318144,85,7,Inactive,E,0.43634,Cﾃｴte-Nord
+628,-64.430904,50.319209,85,8,Inactive,E,0.43634,Cﾃｴte-Nord
+629,-64.443337,50.319311,85,9,Inactive,E,0.43634,Cﾃｴte-Nord
+630,-64.454632,50.320625,85,10,Inactive,E,0.43634,Cﾃｴte-Nord
 631,-70.68194444,46.54638889,86,1,Inactive,C,3.00611,Chaudiere-Appalaches
 632,-70.69055556,46.55305556,86,2,Inactive,C,3.00611,Chaudiere-Appalaches
 633,-70.6975,46.55833333,86,3,Inactive,C,3.00611,Chaudiere-Appalaches
@@ -649,26 +649,26 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 648,-72.852732,46.491933,87,8,Inactive,B,4.2615,Mauricie
 649,-72.860451,46.487228,87,9,Inactive,B,4.2615,Mauricie
 650,-72.867707,46.482736,87,10,Inactive,B,4.2615,Mauricie
-651,-66.04108611,48.88794722,89,1,Active,E,-0.00298,Gaspesie - ﾎles-de-la-Madeleine
-652,-66.0516,48.89150556,89,2,Active,E,-0.00298,Gaspesie - ﾎles-de-la-Madeleine
-653,-66.05568333,48.89644722,89,3,Active,E,-0.00298,Gaspesie - ﾎles-de-la-Madeleine
-654,-66.04945556,48.90224444,89,4,Active,E,-0.00298,Gaspesie - ﾎles-de-la-Madeleine
-655,-66.04462222,48.90889722,89,5,Active,E,-0.00298,Gaspesie - ﾎles-de-la-Madeleine
-656,-66.04458889,48.91588333,89,6,Active,E,-0.00298,Gaspesie - ﾎles-de-la-Madeleine
-657,-66.04445833,48.92308056,89,7,Active,E,-0.00298,Gaspesie - ﾎles-de-la-Madeleine
-658,-66.04625,48.92899722,89,8,Active,E,-0.00298,Gaspesie - ﾎles-de-la-Madeleine
-659,-66.05109444,48.936225,89,9,Active,E,-0.00298,Gaspesie - ﾎles-de-la-Madeleine
-660,-66.05660556,48.94110278,89,10,Active,E,-0.00298,Gaspesie - ﾎles-de-la-Madeleine
-661,-65.89083333,49.03388889,90,1,Inactive,D,0.89674,Gaspesie - ﾎles-de-la-Madeleine
-662,-65.89305556,49.04083333,90,2,Inactive,D,0.89674,Gaspesie - ﾎles-de-la-Madeleine
-663,-65.89555556,49.04861111,90,3,Inactive,D,0.89674,Gaspesie - ﾎles-de-la-Madeleine
-664,-65.89805556,49.05611111,90,4,Inactive,D,0.89674,Gaspesie - ﾎles-de-la-Madeleine
-665,-65.90361111,49.06138889,90,5,Inactive,D,0.89674,Gaspesie - ﾎles-de-la-Madeleine
-666,-65.91083333,49.06611111,90,6,Inactive,D,0.89674,Gaspesie - ﾎles-de-la-Madeleine
-667,-65.91611111,49.0725,90,7,Inactive,D,0.89674,Gaspesie - ﾎles-de-la-Madeleine
-668,-65.92194444,49.07888889,90,8,Inactive,D,0.89674,Gaspesie - ﾎles-de-la-Madeleine
-669,-65.92972222,49.08305556,90,9,Inactive,D,0.89674,Gaspesie - ﾎles-de-la-Madeleine
-670,-65.93861111,49.08722222,90,10,Inactive,D,0.89674,Gaspesie - ﾎles-de-la-Madeleine
+651,-66.04108611,48.88794722,89,1,Active,E,-0.00298,Gaspesie - ﾃ四es-de-la-Madeleine
+652,-66.0516,48.89150556,89,2,Active,E,-0.00298,Gaspesie - ﾃ四es-de-la-Madeleine
+653,-66.05568333,48.89644722,89,3,Active,E,-0.00298,Gaspesie - ﾃ四es-de-la-Madeleine
+654,-66.04945556,48.90224444,89,4,Active,E,-0.00298,Gaspesie - ﾃ四es-de-la-Madeleine
+655,-66.04462222,48.90889722,89,5,Active,E,-0.00298,Gaspesie - ﾃ四es-de-la-Madeleine
+656,-66.04458889,48.91588333,89,6,Active,E,-0.00298,Gaspesie - ﾃ四es-de-la-Madeleine
+657,-66.04445833,48.92308056,89,7,Active,E,-0.00298,Gaspesie - ﾃ四es-de-la-Madeleine
+658,-66.04625,48.92899722,89,8,Active,E,-0.00298,Gaspesie - ﾃ四es-de-la-Madeleine
+659,-66.05109444,48.936225,89,9,Active,E,-0.00298,Gaspesie - ﾃ四es-de-la-Madeleine
+660,-66.05660556,48.94110278,89,10,Active,E,-0.00298,Gaspesie - ﾃ四es-de-la-Madeleine
+661,-65.89083333,49.03388889,90,1,Inactive,D,0.89674,Gaspesie - ﾃ四es-de-la-Madeleine
+662,-65.89305556,49.04083333,90,2,Inactive,D,0.89674,Gaspesie - ﾃ四es-de-la-Madeleine
+663,-65.89555556,49.04861111,90,3,Inactive,D,0.89674,Gaspesie - ﾃ四es-de-la-Madeleine
+664,-65.89805556,49.05611111,90,4,Inactive,D,0.89674,Gaspesie - ﾃ四es-de-la-Madeleine
+665,-65.90361111,49.06138889,90,5,Inactive,D,0.89674,Gaspesie - ﾃ四es-de-la-Madeleine
+666,-65.91083333,49.06611111,90,6,Inactive,D,0.89674,Gaspesie - ﾃ四es-de-la-Madeleine
+667,-65.91611111,49.0725,90,7,Inactive,D,0.89674,Gaspesie - ﾃ四es-de-la-Madeleine
+668,-65.92194444,49.07888889,90,8,Inactive,D,0.89674,Gaspesie - ﾃ四es-de-la-Madeleine
+669,-65.92972222,49.08305556,90,9,Inactive,D,0.89674,Gaspesie - ﾃ四es-de-la-Madeleine
+670,-65.93861111,49.08722222,90,10,Inactive,D,0.89674,Gaspesie - ﾃ四es-de-la-Madeleine
 671,-76.12381111,45.54645833,91,1,Active,B,4.88722,Outaouais
 672,-76.13390278,45.54619167,91,2,Active,B,4.88722,Outaouais
 673,-76.14416667,45.54591389,91,3,Active,B,4.88722,Outaouais
@@ -879,16 +879,16 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 878,-79.22527778,48.08361111,118,8,Inactive,D,1.55849,Abitibi-Temiscamingue
 879,-79.23555556,48.08361111,118,9,Inactive,D,1.55849,Abitibi-Temiscamingue
 880,-79.24638889,48.08361111,118,10,Inactive,D,1.55849,Abitibi-Temiscamingue
-881,-65.22888889,48.19,119,1,Inactive,C,2.69034,Gaspesie - ﾎles-de-la-Madeleine
-882,-65.22472222,48.18388889,119,2,Inactive,C,2.69034,Gaspesie - ﾎles-de-la-Madeleine
-883,-65.24277778,48.1775,119,3,Inactive,C,2.69034,Gaspesie - ﾎles-de-la-Madeleine
-884,-65.24944444,48.17388889,119,4,Inactive,C,2.69034,Gaspesie - ﾎles-de-la-Madeleine
-885,-65.24444444,48.16694444,119,5,Inactive,C,2.69034,Gaspesie - ﾎles-de-la-Madeleine
-886,-65.23972222,48.16,119,6,Inactive,C,2.69034,Gaspesie - ﾎles-de-la-Madeleine
-887,-65.23472222,48.15333333,119,7,Inactive,C,2.69034,Gaspesie - ﾎles-de-la-Madeleine
-888,-65.22972222,48.14916667,119,8,Inactive,C,2.69034,Gaspesie - ﾎles-de-la-Madeleine
-889,-65.22,48.1525,119,9,Inactive,C,2.69034,Gaspesie - ﾎles-de-la-Madeleine
-890,-65.23361111,48.19638889,119,10,Inactive,C,2.69034,Gaspesie - ﾎles-de-la-Madeleine
+881,-65.22888889,48.19,119,1,Inactive,C,2.69034,Gaspesie - ﾃ四es-de-la-Madeleine
+882,-65.22472222,48.18388889,119,2,Inactive,C,2.69034,Gaspesie - ﾃ四es-de-la-Madeleine
+883,-65.24277778,48.1775,119,3,Inactive,C,2.69034,Gaspesie - ﾃ四es-de-la-Madeleine
+884,-65.24944444,48.17388889,119,4,Inactive,C,2.69034,Gaspesie - ﾃ四es-de-la-Madeleine
+885,-65.24444444,48.16694444,119,5,Inactive,C,2.69034,Gaspesie - ﾃ四es-de-la-Madeleine
+886,-65.23972222,48.16,119,6,Inactive,C,2.69034,Gaspesie - ﾃ四es-de-la-Madeleine
+887,-65.23472222,48.15333333,119,7,Inactive,C,2.69034,Gaspesie - ﾃ四es-de-la-Madeleine
+888,-65.22972222,48.14916667,119,8,Inactive,C,2.69034,Gaspesie - ﾃ四es-de-la-Madeleine
+889,-65.22,48.1525,119,9,Inactive,C,2.69034,Gaspesie - ﾃ四es-de-la-Madeleine
+890,-65.23361111,48.19638889,119,10,Inactive,C,2.69034,Gaspesie - ﾃ四es-de-la-Madeleine
 891,-71.07730278,46.75698611,120,1,Inactive,B,4.07315,Chaudiere-Appalaches
 892,-71.06779167,46.75990833,120,2,Inactive,B,4.07315,Chaudiere-Appalaches
 893,-71.05945,46.76351111,120,3,Inactive,B,4.07315,Chaudiere-Appalaches
@@ -979,26 +979,26 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 978,-75.862644,45.514163,131,8,Inactive,A,5.18431,Outaouais
 979,-75.8715,45.511947,131,9,Inactive,A,5.18431,Outaouais
 980,-75.879569,45.508588,131,10,Inactive,A,5.18431,Outaouais
-981,-66.50956667,49.09548611,132,1,Active,D,1.43088,Gaspesie - ﾎles-de-la-Madeleine
-982,-66.50739722,49.088775,132,2,Active,D,1.43088,Gaspesie - ﾎles-de-la-Madeleine
-983,-66.50450556,49.08285278,132,3,Active,D,1.43088,Gaspesie - ﾎles-de-la-Madeleine
-984,-66.500725,49.07745833,132,4,Active,D,1.43088,Gaspesie - ﾎles-de-la-Madeleine
-985,-66.49740278,49.07106389,132,5,Active,D,1.43088,Gaspesie - ﾎles-de-la-Madeleine
-986,-66.49293056,49.0648,132,6,Active,D,1.43088,Gaspesie - ﾎles-de-la-Madeleine
-987,-66.48702222,49.05931667,132,7,Active,D,1.43088,Gaspesie - ﾎles-de-la-Madeleine
-988,-66.48638333,49.05305278,132,8,Active,D,1.43088,Gaspesie - ﾎles-de-la-Madeleine
-989,-66.47997778,49.04778056,132,9,Active,D,1.43088,Gaspesie - ﾎles-de-la-Madeleine
-990,-66.47637778,49.04188611,132,10,Active,D,1.43088,Gaspesie - ﾎles-de-la-Madeleine
-991,-66.31649444,48.93545833,133,1,Active,D,0.69593,Gaspesie - ﾎles-de-la-Madeleine
-992,-66.32056111,48.92860833,133,2,Active,D,0.69593,Gaspesie - ﾎles-de-la-Madeleine
-993,-66.32666389,48.92231111,133,3,Active,D,0.69593,Gaspesie - ﾎles-de-la-Madeleine
-994,-66.33335556,48.91696667,133,4,Active,D,0.69593,Gaspesie - ﾎles-de-la-Madeleine
-995,-66.33863333,48.90892778,133,5,Active,D,0.69593,Gaspesie - ﾎles-de-la-Madeleine
-996,-66.34863056,48.90473333,133,6,Active,D,0.69593,Gaspesie - ﾎles-de-la-Madeleine
-997,-66.35421667,48.89988333,133,7,Active,D,0.69593,Gaspesie - ﾎles-de-la-Madeleine
-998,-66.36312778,48.89735833,133,8,Active,D,0.69593,Gaspesie - ﾎles-de-la-Madeleine
-999,-66.37038611,48.89201667,133,9,Active,D,0.69593,Gaspesie - ﾎles-de-la-Madeleine
-1000,-66.37914167,48.8888,133,10,Active,D,0.69593,Gaspesie - ﾎles-de-la-Madeleine
+981,-66.50956667,49.09548611,132,1,Active,D,1.43088,Gaspesie - ﾃ四es-de-la-Madeleine
+982,-66.50739722,49.088775,132,2,Active,D,1.43088,Gaspesie - ﾃ四es-de-la-Madeleine
+983,-66.50450556,49.08285278,132,3,Active,D,1.43088,Gaspesie - ﾃ四es-de-la-Madeleine
+984,-66.500725,49.07745833,132,4,Active,D,1.43088,Gaspesie - ﾃ四es-de-la-Madeleine
+985,-66.49740278,49.07106389,132,5,Active,D,1.43088,Gaspesie - ﾃ四es-de-la-Madeleine
+986,-66.49293056,49.0648,132,6,Active,D,1.43088,Gaspesie - ﾃ四es-de-la-Madeleine
+987,-66.48702222,49.05931667,132,7,Active,D,1.43088,Gaspesie - ﾃ四es-de-la-Madeleine
+988,-66.48638333,49.05305278,132,8,Active,D,1.43088,Gaspesie - ﾃ四es-de-la-Madeleine
+989,-66.47997778,49.04778056,132,9,Active,D,1.43088,Gaspesie - ﾃ四es-de-la-Madeleine
+990,-66.47637778,49.04188611,132,10,Active,D,1.43088,Gaspesie - ﾃ四es-de-la-Madeleine
+991,-66.31649444,48.93545833,133,1,Active,D,0.69593,Gaspesie - ﾃ四es-de-la-Madeleine
+992,-66.32056111,48.92860833,133,2,Active,D,0.69593,Gaspesie - ﾃ四es-de-la-Madeleine
+993,-66.32666389,48.92231111,133,3,Active,D,0.69593,Gaspesie - ﾃ四es-de-la-Madeleine
+994,-66.33335556,48.91696667,133,4,Active,D,0.69593,Gaspesie - ﾃ四es-de-la-Madeleine
+995,-66.33863333,48.90892778,133,5,Active,D,0.69593,Gaspesie - ﾃ四es-de-la-Madeleine
+996,-66.34863056,48.90473333,133,6,Active,D,0.69593,Gaspesie - ﾃ四es-de-la-Madeleine
+997,-66.35421667,48.89988333,133,7,Active,D,0.69593,Gaspesie - ﾃ四es-de-la-Madeleine
+998,-66.36312778,48.89735833,133,8,Active,D,0.69593,Gaspesie - ﾃ四es-de-la-Madeleine
+999,-66.37038611,48.89201667,133,9,Active,D,0.69593,Gaspesie - ﾃ四es-de-la-Madeleine
+1000,-66.37914167,48.8888,133,10,Active,D,0.69593,Gaspesie - ﾃ四es-de-la-Madeleine
 1001,-73.34027778,45.54666667,134,1,Active,A,6.02403,Monteregie
 1002,-73.3325,45.54888889,134,2,Active,A,6.02403,Monteregie
 1003,-73.325,45.55111111,134,3,Active,A,6.02403,Monteregie
@@ -1059,16 +1059,16 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 1058,-70.74525,47.68579444,139,8,Active,D,0.7728,Capitale-Nationale
 1059,-70.735225,47.68840556,139,9,Active,D,0.7728,Capitale-Nationale
 1060,-70.72782778,47.69153611,139,10,Active,D,0.7728,Capitale-Nationale
-1061,-66.33780556,50.24477778,140,1,Inactive,E,0.23491,Ce-Nord
-1062,-66.33283056,50.25126667,140,2,Inactive,E,0.23491,Ce-Nord
-1063,-66.32716389,50.25737778,140,3,Inactive,E,0.23491,Ce-Nord
-1064,-66.32544167,50.26404444,140,4,Inactive,E,0.23491,Ce-Nord
-1065,-66.31866667,50.26926667,140,5,Inactive,E,0.23491,Ce-Nord
-1066,-66.32042778,50.27553333,140,6,Inactive,E,0.23491,Ce-Nord
-1067,-66.32111389,50.28187222,140,7,Inactive,E,0.23491,Ce-Nord
-1068,-66.31471944,50.28769167,140,8,Inactive,E,0.23491,Ce-Nord
-1069,-66.30513611,50.29155278,140,9,Inactive,E,0.23491,Ce-Nord
-1070,-66.29469167,50.29474722,140,10,Inactive,E,0.23491,Ce-Nord
+1061,-66.33780556,50.24477778,140,1,Inactive,E,0.23491,Cﾃｴte-Nord
+1062,-66.33283056,50.25126667,140,2,Inactive,E,0.23491,Cﾃｴte-Nord
+1063,-66.32716389,50.25737778,140,3,Inactive,E,0.23491,Cﾃｴte-Nord
+1064,-66.32544167,50.26404444,140,4,Inactive,E,0.23491,Cﾃｴte-Nord
+1065,-66.31866667,50.26926667,140,5,Inactive,E,0.23491,Cﾃｴte-Nord
+1066,-66.32042778,50.27553333,140,6,Inactive,E,0.23491,Cﾃｴte-Nord
+1067,-66.32111389,50.28187222,140,7,Inactive,E,0.23491,Cﾃｴte-Nord
+1068,-66.31471944,50.28769167,140,8,Inactive,E,0.23491,Cﾃｴte-Nord
+1069,-66.30513611,50.29155278,140,9,Inactive,E,0.23491,Cﾃｴte-Nord
+1070,-66.29469167,50.29474722,140,10,Inactive,E,0.23491,Cﾃｴte-Nord
 1071,-71.97647222,48.6765,142,1,Active,D,1.96389,Saguenay - Lac-Saint-Jean
 1072,-71.96541667,48.67497222,142,2,Active,D,1.96389,Saguenay - Lac-Saint-Jean
 1073,-71.95436111,48.67497222,142,3,Active,D,1.96389,Saguenay - Lac-Saint-Jean
@@ -1379,16 +1379,16 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 1378,-71.66158165,46.59751724,178,8,Active,B,4.21643,Chaudiere-Appalaches
 1379,-71.67086838,46.59916612,178,9,Active,B,4.21643,Chaudiere-Appalaches
 1380,-71.6781986,46.60432711,178,10,Active,B,4.21643,Chaudiere-Appalaches
-1381,-68.4237,49.1302,179,1,Active,D,1.9078,Ce-Nord
-1382,-68.4293,49.1242,179,2,Active,D,1.9078,Ce-Nord
-1383,-68.4297,49.117,179,3,Active,D,1.9078,Ce-Nord
-1384,-68.4356,49.1112,179,4,Active,D,1.9078,Ce-Nord
-1385,-68.4423,49.1052,179,5,Active,D,1.9078,Ce-Nord
-1386,-68.4504,49.101,179,6,Active,D,1.9078,Ce-Nord
-1387,-68.4608,49.0988,179,7,Active,D,1.9078,Ce-Nord
-1388,-68.4707,49.097,179,8,Active,D,1.9078,Ce-Nord
-1389,-68.4812,49.0951,179,9,Active,D,1.9078,Ce-Nord
-1390,-68.4918,49.094,179,10,Active,D,1.9078,Ce-Nord
+1381,-68.4237,49.1302,179,1,Active,D,1.9078,Cﾃｴte-Nord
+1382,-68.4293,49.1242,179,2,Active,D,1.9078,Cﾃｴte-Nord
+1383,-68.4297,49.117,179,3,Active,D,1.9078,Cﾃｴte-Nord
+1384,-68.4356,49.1112,179,4,Active,D,1.9078,Cﾃｴte-Nord
+1385,-68.4423,49.1052,179,5,Active,D,1.9078,Cﾃｴte-Nord
+1386,-68.4504,49.101,179,6,Active,D,1.9078,Cﾃｴte-Nord
+1387,-68.4608,49.0988,179,7,Active,D,1.9078,Cﾃｴte-Nord
+1388,-68.4707,49.097,179,8,Active,D,1.9078,Cﾃｴte-Nord
+1389,-68.4812,49.0951,179,9,Active,D,1.9078,Cﾃｴte-Nord
+1390,-68.4918,49.094,179,10,Active,D,1.9078,Cﾃｴte-Nord
 1391,-74.27705,45.96081667,180,1,Inactive,C,3.42351,Laurentides
 1392,-74.28205,45.96598333,180,2,Inactive,C,3.42351,Laurentides
 1393,-74.28993333,45.96853333,180,3,Inactive,C,3.42351,Laurentides
@@ -1629,16 +1629,16 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 1628,-74.676604,46.01765,211,8,Inactive,B,3.97,Laurentides
 1629,-74.684041,46.019843,211,9,Inactive,B,3.97,Laurentides
 1630,-74.689952,46.015694,211,10,Inactive,B,3.97,Laurentides
-1631,-64.206735,48.855032,212,1,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1632,-64.215398,48.850728,212,2,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1633,-64.213507,48.843504,212,3,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1634,-64.223505,48.839246,212,4,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1635,-64.233643,48.836747,212,5,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1636,-64.244925,48.838257,212,6,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1637,-64.254128,48.842137,212,7,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1638,-64.265563,48.843277,212,8,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1639,-64.275846,48.840217,212,9,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1640,-64.276008,48.832841,212,10,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
+1631,-64.206735,48.855032,212,1,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1632,-64.215398,48.850728,212,2,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1633,-64.213507,48.843504,212,3,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1634,-64.223505,48.839246,212,4,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1635,-64.233643,48.836747,212,5,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1636,-64.244925,48.838257,212,6,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1637,-64.254128,48.842137,212,7,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1638,-64.265563,48.843277,212,8,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1639,-64.275846,48.840217,212,9,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1640,-64.276008,48.832841,212,10,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
 1641,-71.7695643,45.797136,213,1,Active,B,4.16,Estrie
 1642,-71.7678352,45.8034863,213,2,Active,B,4.16,Estrie
 1643,-71.7629179,45.8094508,213,3,Active,B,4.16,Estrie
@@ -1679,16 +1679,16 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 1678,-68.419986,48.402334,141m,8,Active,C,2.9,Bas-Saint-Laurent
 1679,-68.427104,48.400944,141m,9,Active,C,2.9,Bas-Saint-Laurent
 1680,-68.35853,48.41792,141m,10,Active,C,2.9,Bas-Saint-Laurent
-1681,-65.188257,49.163291,16m,1,Inactive,D,1.86754,Gaspesie - ﾎles-de-la-Madeleine
-1682,-65.185077,49.156401,16m,2,Inactive,D,1.86754,Gaspesie - ﾎles-de-la-Madeleine
-1683,-65.189199,49.149393,16m,3,Inactive,D,1.86754,Gaspesie - ﾎles-de-la-Madeleine
-1684,-65.193892,49.143396,16m,4,Inactive,D,1.86754,Gaspesie - ﾎles-de-la-Madeleine
-1685,-65.200543,49.138212,16m,5,Inactive,D,1.86754,Gaspesie - ﾎles-de-la-Madeleine
-1686,-65.20888889,49.13638889,16m,6,Inactive,D,1.86754,Gaspesie - ﾎles-de-la-Madeleine
-1687,-65.218774,49.137331,16m,7,Inactive,D,1.86754,Gaspesie - ﾎles-de-la-Madeleine
-1688,-65.227903,49.135072,16m,8,Inactive,D,1.86754,Gaspesie - ﾎles-de-la-Madeleine
-1689,-65.238028,49.136443,16m,9,Inactive,D,1.86754,Gaspesie - ﾎles-de-la-Madeleine
-1690,-65.248738,49.134323,16m,10,Inactive,D,1.86754,Gaspesie - ﾎles-de-la-Madeleine
+1681,-65.188257,49.163291,16m,1,Inactive,D,1.86754,Gaspesie - ﾃ四es-de-la-Madeleine
+1682,-65.185077,49.156401,16m,2,Inactive,D,1.86754,Gaspesie - ﾃ四es-de-la-Madeleine
+1683,-65.189199,49.149393,16m,3,Inactive,D,1.86754,Gaspesie - ﾃ四es-de-la-Madeleine
+1684,-65.193892,49.143396,16m,4,Inactive,D,1.86754,Gaspesie - ﾃ四es-de-la-Madeleine
+1685,-65.200543,49.138212,16m,5,Inactive,D,1.86754,Gaspesie - ﾃ四es-de-la-Madeleine
+1686,-65.20888889,49.13638889,16m,6,Inactive,D,1.86754,Gaspesie - ﾃ四es-de-la-Madeleine
+1687,-65.218774,49.137331,16m,7,Inactive,D,1.86754,Gaspesie - ﾃ四es-de-la-Madeleine
+1688,-65.227903,49.135072,16m,8,Inactive,D,1.86754,Gaspesie - ﾃ四es-de-la-Madeleine
+1689,-65.238028,49.136443,16m,9,Inactive,D,1.86754,Gaspesie - ﾃ四es-de-la-Madeleine
+1690,-65.248738,49.134323,16m,10,Inactive,D,1.86754,Gaspesie - ﾃ四es-de-la-Madeleine
 1691,-70.986316,48.23972,201m,1,Active,C,2.10808,Saguenay - Lac-Saint-Jean
 1692,-70.986985,48.245912,201m,2,Active,C,2.10808,Saguenay - Lac-Saint-Jean
 1693,-70.994166,48.250577,201m,3,Active,C,2.10808,Saguenay - Lac-Saint-Jean
@@ -1849,16 +1849,16 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 1848,-75.8819004,45.49003,219,8,Active,A,5.18,Outaouais
 1849,-75.8918583,45.4917072,219,9,Active,A,5.18,Outaouais
 1850,-75.9011817,45.494708,219,10,Active,A,5.18,Outaouais
-1851,-64.3817793,48.8593347,220,1,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1852,-64.3800519,48.8664422,220,2,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1853,-64.3809805,48.8736015,220,3,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1854,-64.3782262,48.8805454,220,4,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1855,-64.3683639,48.8836547,220,5,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1856,-64.3627209,48.8897984,220,6,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1857,-64.3558104,48.8953638,220,7,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1858,-64.3503662,48.9015882,220,8,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1859,-64.3450271,48.9078173,220,9,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1860,-64.3399164,48.9141917,220,10,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
+1851,-64.3817793,48.8593347,220,1,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1852,-64.3800519,48.8664422,220,2,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1853,-64.3809805,48.8736015,220,3,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1854,-64.3782262,48.8805454,220,4,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1855,-64.3683639,48.8836547,220,5,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1856,-64.3627209,48.8897984,220,6,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1857,-64.3558104,48.8953638,220,7,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1858,-64.3503662,48.9015882,220,8,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1859,-64.3450271,48.9078173,220,9,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1860,-64.3399164,48.9141917,220,10,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
 1861,-70.4236878,46.1942274,221,1,Active,B/C,3.3,Chaudiere-Appalaches
 1862,-70.4160274,46.1991734,221,2,Active,B/C,3.3,Chaudiere-Appalaches
 1863,-70.4084496,46.2041634,221,3,Active,B/C,3.3,Chaudiere-Appalaches
@@ -1899,19 +1899,19 @@ Tri,X,Y,Route,Station,Statut,Zone climatique,Temperature moyenne annuelle (celsi
 1898,-70.3354643,47.4130477,224,8,Active,B/C,NA,Capitale-Nationale
 1899,-70.3297137,47.4185652,224,9,Active,B/C,NA,Capitale-Nationale
 1900,-70.3308295,47.4248952,224,10,Active,B/C,NA,Capitale-Nationale
-1901,-64.2902173,48.82369,225,1,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1902,-64.280738,48.8198292,225,2,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1903,-64.2724508,48.815587,225,3,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1904,-64.263057,48.81171,225,4,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1905,-64.252578,48.810261,225,5,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1906,-64.2447394,48.8052977,225,6,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1907,-64.2359244,48.8010857,225,7,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1908,-64.228356,48.795821,225,8,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1909,-64.2213226,48.790303,225,9,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1910,-64.2152462,48.784445,225,10,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1911,-64.2082916,48.778897,225,11,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1912,-64.2002477,48.773896,225,12,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
-1913,-64.192745,48.768943,225,13,Active,C/D,NA,Gaspesie - ﾎles-de-la-Madeleine
+1901,-64.2902173,48.82369,225,1,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1902,-64.280738,48.8198292,225,2,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1903,-64.2724508,48.815587,225,3,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1904,-64.263057,48.81171,225,4,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1905,-64.252578,48.810261,225,5,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1906,-64.2447394,48.8052977,225,6,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1907,-64.2359244,48.8010857,225,7,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1908,-64.228356,48.795821,225,8,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1909,-64.2213226,48.790303,225,9,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1910,-64.2152462,48.784445,225,10,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1911,-64.2082916,48.778897,225,11,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1912,-64.2002477,48.773896,225,12,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
+1913,-64.192745,48.768943,225,13,Active,C/D,NA,Gaspesie - ﾃ四es-de-la-Madeleine
 1914,-73.6095236,45.3639644,226,1,Active,A,6.3806,Monteregie
 1915,-73.6147271,45.3579902,226,2,Active,A,6.3806,Monteregie
 1916,-73.6201129,45.3522,226,3,Active,A,6.3806,Monteregie
